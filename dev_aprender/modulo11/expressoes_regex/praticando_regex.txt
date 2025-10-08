@@ -1,0 +1,74 @@
+Para localizar expressões interiras, basta digitalas
+
+Para localizar qualquer número basta digitar o \d
+
+Para identificar qualquer caracter basta usar ponto (.)
+
+Para identificar um ponto, basta usar o \.
+
+para passar um número especifíco basta usar o [número]
+
+Para selecionar apenas os caractares que quer basta usar o colchete com as letras dentro
+    - Nesse caso se o caractere do meio não importar pode colocar um ponto fora do colchete
+
+Para entender um parenteses, precisa estar dentro do colchete [(], [)] 
+
+Para selecionar tudo menos um caractere é só usar [^caracter]
+
+Para achar uma faixa de números ou caracteres podemos usar [caracter que começa-caracter que termina]
+
+Para incluir todos os caracteres é só usar o \W
+
+Para achar uma sequencia de digitos, podemos usar \d{numero}
+    - Aceita uma faixa de número mínimo e de número maximo.
+
+Para dizer que um caracter é opcional é só colocar um ? na frente dele 
+
+Para identificar um ponto de interrogação, basta usar o \?
+
+Para achar os espaços em branco, basta digitar espaço 
+
+Para identificar quebra de linha usamos o \n
+
+Para identificar uma nova linha que foi criada a partir do click no botão enter, usamos o \r
+
+Para identificar o tab usamos o \t
+
+Para lidar com qualquer tipo de espaço usamos o \s
+
+Para delimitar como algo começa e como algo termina usamos o (^) e o ($)
+
+Olá! sou uma frase simples
+
+dev123com 
+developer 123
+dev = 123
+dev = 1234
+dev = 1337
+dev = 9000
+
+13.35.86
+22.36.77
+53.12.34
+
+bah pular 
+tah encontrar
+jah encontrar 
+nah encontrar
+uai pular
+
+(123)1234-1235 encontrar
+(123)1234-1235 encontrar
+(129)1234-1235 pular
+(129)1234-1235 pular
+
+1234 encontrar
+6462 pular
+
+pqrstuv encontrar
+wxyz pular
+abcdefg pular
+
+2 pizzas enviadas 
+1 pizza enviada 
+3 pizzas enviadas

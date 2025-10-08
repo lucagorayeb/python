@@ -1,0 +1,7 @@
+# Quando usar módulos 
+
+# 1° - Separar funcionalidades relacionadas
+
+# 2° - Não acoplar o seu código
+
+# 3° - Não ter um arquivo gigante

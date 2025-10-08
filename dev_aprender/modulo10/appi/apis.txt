@@ -1,0 +1,70 @@
+# Lista de APIS para ler a documentação
+# 1 - https://github.com/realpython/list-of-python-api-wrappers
+# 2 - https://github.com/public-apis/public-apis?tab=readme-ov-file
+# 3 - https://github.com/n0shake/Public-APIs
+# 4 - Para encontrar APIs não oficiais é só digitar no navegador:
+#     nome_do_programa unnoficial api (posso ser banido por usar essa api)
+
+# O que são APIs?
+#    
+#  - APIs são serviços disponibilizados online para acessar recursos ou funcionalidades de algumas aplicações web
+#    
+#  - Toda API possui 4 partes
+#   
+#   1 - URL base
+#       Por que precisamos acessar a parte básica da API
+#       Ex: http://dummy.restapiexample.com/
+#       Assim poderemos ver todos os recursos do URL base
+#
+#   2 - Endpoint 
+#       São as partes específicas da API 
+#       Vem depois da URL base
+#       Ex: http://dummy.restapiexample.com/api/v1/employees >> 'employes' é o endpoint
+#
+#   APIs são compostas por URL base + Endpoint
+#
+#   3 - Recurso 
+#       Tudo o que é retornado ou enviado a uma API é considerado um recurso (resource em inglês)
+#
+#   4 - Verbos HTTP
+#       GET - Obter dados existentes
+#       POST - Enviar dados
+#       PUT - Atuaizar dados exitentes
+#       DELETE - Excluir dados 
+#
+#   Status Codes
+#       1xx: Informação
+#       2xx: Sucesso
+#       3xx: Redirecionamento
+#       4xx: Erro no cliente
+#       5xx: Erro no servidor 
+#
+#
+#
+#       CRIANDO APIs
+#       
+# 1 - Definir o objetivo da API?
+#     Ex: Iremos montar uma API de blog, onde eu poderei consultar, editar, criar e excluir postagens em um blog usando a API
+#
+# 2 - Qual será a URL base da API? 
+#     Ex: Quando você cria um aplicação local ela terá um url tipo http://localhost:5000 , porém quando você for subir isso para a nuvem, você terá que comprar ou usar um domínio como 
+#     url base, vamos imaginar um exemplo de devaprender.com/api/
+#
+# 3 - Quais são os endpoints?
+#     Ex: Se seu requisito é de poder consultar, editar, atualizar e excluior, você terá que disponibilizar os endpoints para que essas questões 
+#           > /postagens
+#
+# 4 - Quais recursos será disponibilizado pela api: Informações sobre as postagens 
+#
+# 5 - Quais verbos http serão disponibilizados?
+#     * GET
+#     * POST
+#     * PUT
+#     * DELETE
+#
+# 6 - Quais são os URLs completos para cada um?
+#     * GET http://localhost:5000/postagens/
+#     * GET http://localhost:5000/postagens/1
+#     * POST http://localhost:5000/postagens/
+#     * PUT http://localhost:5000/postagens/1
+#     * DELETE http://localhost:5000/postagens/1

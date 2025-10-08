@@ -1,0 +1,14 @@
+Site que podemos procurar biblitecas online -> Sempre pesquisar em inglês
+
+Gerenciando pacotes locais:
+
+- pip list para saber quantos bibliotecas eu tenho localmente
+
+- pip install nome_da_biblioteca para instalar
+
+- pip uninstall nome_da_biblioteca para desinstalar
+
+
+- para instalar um versão especifica da biblioteca:
+
+pip install nome_da_biblioteca==versão_da_biblioteca

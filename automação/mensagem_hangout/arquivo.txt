@@ -1,0 +1,59 @@
+CN=Pedro Daniel Simoes Barbati,OU=Funcionario,OU=Usuarios,OU=Assessoria Militar,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Rozicleide Máximo Martins Pinheiro,OU=Supervisores,OU=SIMGI_CIM,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Washington Soares Francisco,OU=Funcionario,OU=Usuarios,OU=Assessoria Militar,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Ana Lídia Daibes Andrade,OU=Funcionario,OU=Usuarios,OU=CCOM,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Rayssa Andrade de Brito,OU=Funcionario,OU=Usuarios,OU=CCOM,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Juciana Ribeiro de Brito,OU=Funcionario,OU=Usuarios,OU=CCOM,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Deusdete Pereira dos Santos,OU=Funcionario,OU=Usuarios,OU=CCOM,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Laelho Barrozo da Silva,OU=Funcionario,OU=Usuarios,OU=CCOM,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Alana Pinheiro Siqueira Brito,OU=Funcionario,OU=Usuarios,OU=Cartorio Distribuidor Civel,OU=Forum Civel,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Raimundo Fabio da Silva e Souza,OU=Funcionario,OU=Usuarios,OU=CCOM,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Ivan Alcuides Correia Amaral,OU=Usuarios,OU=DIF,OU=DEF,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Julio Cézar Brito Rendeiro,OU=Usuarios,OU=DIF,OU=DEF,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Vitor Rafael dos Anjos da Silva,OU=Funcionario,OU=Usuarios,OU=DICON,OU=Departamentos,OU=Departamento Financeiro,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Benedito Cecinio Correa Filho,OU=Funcionario,OU=Usuarios,OU=2 Vara Execucoes Fiscais,OU=Vara Execucoes Fiscais,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Tiago Varnou Da Silva,OU=Funcionario,OU=Usuarios,OU=DICON,OU=Departamentos,OU=Departamento Financeiro,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Francisco Erisvânio de Lima,OU=Usuarios,OU=DIF,OU=DEF,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Michelle Duarte Cerqueira Pacheco,OU=Funcionario,OU=Usuarios,OU=DICON,OU=Departamentos,OU=Departamento Financeiro,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Viviane Moreira Passos,OU=Funcionario,OU=Usuarios,OU=CCI,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Maria Aparecida Brasileiro Silva,OU=Funcionario,OU=Usuarios,OU=DICON,OU=Departamentos,OU=Departamento Financeiro,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Iosníquisson Alex Braga de Sá Costa,OU=Funcionario,OU=Usuarios,OU=9 Vara Civel,OU=Forum Civel,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Lanna Fabianny Silva Araújo,OU=Funcionario,OU=Usuarios,OU=CCOM,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Luiz Rogerio Macedo Guedes,OU=Funcionario,OU=Usuarios,OU=CCI,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Antônio Cardoso Mourão,OU=Funcionario,OU=Usuarios,OU=CCI,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Ana Barbosa dos Santos,OU=Funcionario,OU=Usuarios,OU=DICON,OU=Departamentos,OU=Departamento Financeiro,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Caue Duarte de Sousa,OU=Funcionario,OU=Usuarios,OU=Des Marcos Alaor,OU=Desembargadores,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Gloria Helena de Matos Martins,OU=Funcionario,OU=Usuarios,OU=Des Miguel Monico,OU=Desembargadores,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Carlos Augusto Amorim Lopes,OU=Funcionario,OU=Usuários,OU=Des Raduan Miguel,OU=Desembargadores,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Ediberto Barbosa Lemos,OU=Usuarios,OU=DIAC,OU=DEC,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Felipe Pinheiro dos Santos,OU=Usuarios,OU=DIAC,OU=DEC,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Ana Carolina Portela Benarros,OU=Funcionarios,OU=Usuarios,OU=COPLAN,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Daniella de Souza e Pereira,OU=Funcionarios,OU=Servico Psicossocial,OU=Forum da Familia,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=André Lopes Shockness,OU=Funcionarios,OU=Usuarios,OU=COPLAN,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Mozart H. Tong Nobre,OU=Usuarios,OU=SET,OU=DEPAD,OU=Secretaria Administrativa,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Giselda A. do Monte Silva,OU=Funcionario,OU=Usuarios,OU=Gabinete,OU=Departamento de Recursos Humanos,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Jose Carlos Santos da Silva,OU=Usuarios,OU=ALMOX,OU=DEPAD,OU=Secretaria Administrativa,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Aroldo Sávio Menezes Barros,OU=Usuarios,OU=DISEG,OU=DEPAD,OU=Secretaria Administrativa,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Camila Laiane Batista Lima,OU=Funcionario,OU=Usuarios,OU=Secretaria Judiciaria,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Antonio Marcio de Paiva,OU=Funcionario,OU=Usuarios,OU=Secretaria Judiciaria,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Diego Henrique Lima da Silva,OU=Funcionario,OU=Usuarios,OU=CCOM,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Antonio Marcio de Paiva,OU=Funcionario,OU=Usuarios,OU=Secretaria Judiciaria,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Luis Felipe Theobald dos Reis,OU=DSS,OU=Usuarios Externos,OU=Seguranca,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Alberto Georges Souza dos Santos,OU=Funcionario,OU=Usuarios,OU=Secretaria Judiciaria,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Halyny Carla de Jesus,OU=Funcionarios,OU=Usuarios,OU=Secretaria Administrativa,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Waldemar T. dos Santos Filho,OU=Funcionarios,OU=Usuarios,OU=DIDEP,OU=Departamento de Recursos Humanos,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Regina Maria Sampaio Ramos,OU=Usuarios,OU=DEXOR,OU=DEF,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Benedito Cecinio Correa Filho,OU=Funcionario,OU=Usuarios,OU=2 Vara Execucoes Fiscais,OU=Vara Execucoes Fiscais,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Vitoria Mailla Amorim Oliveira,OU=Usuarios,OU=DEXOR,OU=DEF,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Leandro Oliveira Brandão,OU=Usuarios,OU=DEXOR,OU=DEF,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Bárbara Moreira Ghisi,OU=Usuarios,OU=DEXOR,OU=DEF,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Pedro Henrique Gomes Agra,OU=SEREC,OU=DINTEC,OU=Coordenadoria de Informatica,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Nisia T. Andrade,OU=SEREC,OU=DINTEC,OU=Coordenadoria de Informatica,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Rodrigo Avelino Araújo,OU=SEREC,OU=DINTEC,OU=Coordenadoria de Informatica,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Almir dos S. Albuquerque,OU=SEGED,OU=DINTEC,OU=Coordenadoria de Informatica,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Yuji Felipe Roque Kuroda,OU=SESINF,OU=DINTEC,OU=Coordenadoria de Informatica,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Reginaldo S. Gadelha,OU=Funcionario,OU=Usuario,OU=DIDESJUD,OU=DIDES,OU=Coordenadoria de Informatica,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Cristiano Batista Ramos,OU=SEREC,OU=DINTEC,OU=Coordenadoria de Informatica,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Jedeson Antonio Herminio da Silva,OU=Funcionario,OU=Usuario,OU=DIDESADM,OU=DIDES,OU=Coordenadoria de Informatica,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Neilton Soria Galvao,OU=Funcionario,OU=Usuario,OU=DIDESJUD,OU=DIDES,OU=Coordenadoria de Informatica,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local
+CN=Sheiliemarcos Silva Ferreira,OU=Funcionario,OU=Usuario,OU=DIDESJUD,OU=DIDES,OU=Coordenadoria de Informatica,OU=Sede Administrativa,OU=Capital,OU=Tribunal de Justica,DC=pjro,DC=local

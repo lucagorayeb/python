@@ -1,0 +1,11 @@
+1 - Escrevendo programas e rotinas simples que raramente mudam e, em geral possuem poucas linhas?
+
+Não use funções ou classes
+
+2 - Cenário Tendo que reescrever a mesma funcionalidade mais de uma vez?
+
+Use Funções
+
+3 - Programa não é trivial e contém diversas funções, onde cada um trata de um problema/tema diferente?
+
+Use Classes

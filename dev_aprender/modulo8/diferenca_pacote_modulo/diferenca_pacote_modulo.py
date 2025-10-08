@@ -1,0 +1,1 @@
+# Pacote é uma pasta com varios módulos e para que eu consiga usar um desses módulos preciso adicionar um arquivo chamado __init__.py

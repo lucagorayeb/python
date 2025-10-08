@@ -1,0 +1,16 @@
+Para criar um ambiente virtual precisamos passar o comando:
+ >> python -m venv luca
+
+Para acessar esse ambiente virtual passamos o comando:
+ >> .\luca\Scripts\activate
+
+Atualizamos o pip como seguinte comando:
+ >> python -m pip install --upgrade pip
+
+Criamos um arquivo de texto com os requerimentos:
+ >> pip freeze > requirements.txt
+ >> .\requirements.txt (Executa o arquivo)
+
+Para sair do ambiente virtual:
+ >> deactivate
+

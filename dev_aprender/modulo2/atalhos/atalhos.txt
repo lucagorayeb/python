@@ -1,0 +1,25 @@
+
+Atalhos do VSCODE   
+
+alt + shift + a = Comenta um bloco todo
+
+ctrl + k + c = Comenta a linha
+
+ctrl + k + u = Descomenta a linha
+
+alt + seta para cima ou seta para baixo = Move a linha
+
+alt + shift + seta para baixo = duplica a linha 
+
+ctrl + b = Esconde o menu lateral
+
+ctrl + shift + c = Abre o terminal externo
+
+ctrl + f = Procura qualquer palavra
+
+ctrl + h = Subistitui uma frase
+
+ctrl + p = Acessar arquivos -> ctrl + enter = Abre em página duplicada
+
+ctrl + w = Fecha o VSCODE
+
