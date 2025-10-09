@@ -37,7 +37,29 @@ You could do 2 things to resolved that:
 	Create a virtual enviorment:
 	python3 -m venv your/path/that/you/want/create/venv/
 	
-	Creating a alias:
+	Creating a alias for venv:
+	
+	cat ~/.bashrc (search for "Alias definitions")
+	
+	if Alias definion was like:
+	# Alias definitions.
+	# You may want to put all your additions into a separate file like
+	# ~/.bash_aliases, instead of adding them here directly.
+	# See /usr/share/doc/bash-doc/examples in the bash-doc package. 
+	if [ -f ~/.bash_aliases ]; then
+    		. ~/.bash_aliases
+	fi	
+	(ends on "fi")
+	
+	type echo "alias venve_py = source path\that\your\venv\is\installed\bin\activate" >> ~/.bash_aliases (ENTER) 
+	
+	type source ~/.bashrc (ENTER)
+	
+	type cd  path\that\your\venv\is\installed (ENTER) 
+	
+	type venve_py (ENTER) 
+
+	you will see (venv) luca@luca-desktop:path\that\your\venv\is\installed
 
 	See /usr/share/doc/python3.12/README.venv for more information
 
