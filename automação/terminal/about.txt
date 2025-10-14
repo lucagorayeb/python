@@ -1,0 +1,3 @@
+To make more easy do this, I created an alias on my Linux:
+alias codar='venv_py && python3 /home/luca/estudos/estudos_ti/desenvolvimento/linguagens/python_estudo/python/automação/terminal/posicionando_terminal.py && exit'
+
