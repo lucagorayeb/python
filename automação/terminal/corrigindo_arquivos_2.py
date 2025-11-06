@@ -8,7 +8,10 @@ def enter():
     pyautogui.press('enter')
 
 def mudar_arquivos_exercicios():
-    pyautogui.write('cd Documentos/java/exercicios/beecrowd/iniciante/')
+    pyautogui.write('code_java')
+    enter()
+    sleep()
+    pyautogui.write('cd exercicios/beecrowd/iniciante')
     enter()
     sleep()
     mudancas = ['area','calculosimples','consumo','diferenca','esfera', 'helloworld', 'lanche',  'media2', 'produtosimples', 'selecao', 'teste'
