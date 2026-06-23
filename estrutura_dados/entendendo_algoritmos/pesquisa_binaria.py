@@ -23,11 +23,7 @@ def pesquisa_binaria(array, item):
     
     return None
 
-def sorteia_item(array):
-    return random.choice(array)
 
 array = [1,2,3,4,5,6,7,8,9,10]
-item = sorteia_item(array)
-#item = 7
-print(pesquisa_binaria(array, item))
+print(pesquisa_binaria(array, -1))
 
