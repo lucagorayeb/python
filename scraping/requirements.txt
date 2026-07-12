@@ -1,1 +1,5 @@
 requests
+flake8
+beautifulsoup4
+selenium
+webdriver-manager
